@@ -1,24 +1,18 @@
 # 💫 About Me:
 # 👨‍💻 Sanchit Dalvi<br><br>🎓 BSCS Student | Aspiring Software Developer<br><br>I am passionate about building creative and useful applications.<br>Currently learning **Python, Web Development, and Data Structures & Algorithms**.<br><br>---<br><br>## 🔧 Technologies<br><br>* Python<br>* HTML / CSS / JavaScript<br>* Git & GitHub<br>* Android Studio<br><br>---<br><br>## 🚀 My Projects<br><br>### 💻 Applications<br><br>* 🩸 **Blood Bank Management System**<br> <br><br>* 📚 **My Library (Library Management System)**<br> <br><br>* 🧮 **Calculator App**<br><br><br>---<br><br>### 🌐 Websites<br><br>* 🥗 **Healthy Salad Website**<br> <br><br>* 🍔 **Burger Website**<br> <br><br>---<br><br>### 🎮 Games<br><br>* 🧩 **Maze Game**<br>  <br><br>* 🎮 **Sandy Maze Game**<br>  <br>* 🎯 **Game Project**<br><br>---<br><br>### 🎨 Creative & UI Projects<br><br>* ⚡ **ARC Reactor Animation**<br> <br>* ⏰ **Digital Clock**<br><br><br>* 🎨 **Animation Project**<br>  <br>---<br><br>### 🤖 AI / Computer Vision<br><br>* ✋ **Hand Gesture Recognition**<br>  <br><br>---<br><br>## 📈 Currently Learning<br><br>* Advanced Python<br>* Backend Development<br>* Problem Solving (DSA)<br><br>---<br><br>⭐ I love building **cool, creative, and professional projects**.<br>
 
-
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sanchit dalvi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dalvisanchit15@gmail.com) 
-
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sandy-D-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sandy-D-15&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandy-D-15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sandy-D-15&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sandy-D-15&icon=0&color=0)](https://visitcount.itsvg.in)
+---[![](https://visitcount.itsvg.in/api?id=Sandy-D-15&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
